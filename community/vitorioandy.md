@@ -22,7 +22,7 @@
 <h1>Meus Contatos</h1>
 <h5>Aqui estão outras plataformas onde vocês podem me encontrar </h5>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anderson-muniz-9a1b9a24b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-muniz-9a1b9a24b)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531995011552)
 
